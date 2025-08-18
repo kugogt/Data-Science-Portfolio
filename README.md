@@ -4,7 +4,7 @@
 I'm **Marco Rosato**, a master's student in **Data Science** at the University of Milano-Bicocca.  
 I hold a bachelor's degree in **Statistics and Information Management (SGI)**, and this portfolio is a collection of my academic and personal projects in the field of Data Science & Machine Learning.  
 
-The goal of this portfolio is to provide clear and unifi access to each project repository. 
+The goal of this portfolio is to provide clear and unified access to each project repository. 
 
 ---
 
