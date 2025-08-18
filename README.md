@@ -20,7 +20,7 @@ Inside you’ll find several folders, each corresponding to a specific course pr
 In addition to coursework, I’ve worked on personal projects to deepen my knowledge and explore areas of interest. Each project has its own repository:
 
 - 🏡 [House Price Prediction](https://github.com/kugogt/Housing-Price-Prediction) – End-to-end ML pipeline for regression, feature engineering, model stacking and interpretation.  
-- 🧠 [Image Super-Resolution with U-Net](https://github.com/kugogt/SR-Restoration-images-U-Net/tree/main) – Advanced U-Net with modern deep learning techniques for image restoration.  
+- 🧠 [Image Super-Resolution with U-Net](https://github.com/kugogt/SR-Restoration-images-U-Net/tree/main) – U-Net with modern deep learning techniques for image super resolution & restoration.  
 
 
 ---
