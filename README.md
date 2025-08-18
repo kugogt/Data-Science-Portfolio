@@ -10,7 +10,7 @@ The goal of this portfolio is to provide clear and unifi access to each project 
 
 ## 🎓 University Projects
 This repository contains all the projects I’ve worked on during my master’s degree.  
-📂 [University Projects Repository](link-to-your-university-repo)  
+📂 [University Projects Repository](https://github.com/kugogt/University_projects)  
 
 Inside you’ll find several folders, each corresponding to a specific course project.
 
@@ -19,8 +19,8 @@ Inside you’ll find several folders, each corresponding to a specific course pr
 ## 🚀 Personal Projects
 In addition to coursework, I’ve worked on personal projects to deepen my knowledge and explore areas of interest. Each project has its own repository:
 
-- 🏡 [House Price Prediction (Python)]([link-to-house-price-repo](https://github.com/kugogt/Housing-Price-Prediction)) – End-to-end ML pipeline for regression, feature engineering, and model stacking.  
-- 🧠 [Image Super-Resolution with U-Net]([link-to-super-resolution-repo](https://github.com/kugogt/SR-Restoration-images-U-Net/tree/main)) – Advanced U-Net with modern deep learning techniques for image restoration.  
+- 🏡 [House Price Prediction (Python)](https://github.com/kugogt/Housing-Price-Prediction) – End-to-end ML pipeline for regression, feature engineering, and model stacking.  
+- 🧠 [Image Super-Resolution with U-Net](https://github.com/kugogt/SR-Restoration-images-U-Net/tree/main) – Advanced U-Net with modern deep learning techniques for image restoration.  
 
 
 ---
@@ -28,8 +28,8 @@ In addition to coursework, I’ve worked on personal projects to deepen my knowl
 ## 📬 Contact
 If you’d like to connect or discuss my work:  
 - 📧 Email: marco.rosato99@gmail.com  
-- 💼 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/marco-rosato-39503819b/))  
-- 🌐 [GitHub]([your-github-profile](https://github.com/kugogt))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marco-rosato-39503819b/)
+- 🌐 [GitHub](https://github.com/kugogt) 
 
 ---
 
