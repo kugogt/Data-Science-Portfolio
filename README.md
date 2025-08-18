@@ -1,6 +1,6 @@
 # 📚 Marco Rosato – Data Science
 
-👋 Welcome!  
+👋 *Ciao*!  
 I'm **Marco Rosato**, a master's student in **Data Science** at the University of Milano-Bicocca.  
 I hold a bachelor's degree in **Statistics and Information Management (SGI)**, and this portfolio is a collection of my academic and personal projects in the field of Data Science & Machine Learning.  
 
