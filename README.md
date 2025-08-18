@@ -1,2 +1,36 @@
-# data-science-portfolio
-Repository of all my Data Science projects!
+# 📚 Marco Rosato – Data Science
+
+👋 Welcome!  
+I'm **Marco Rosato**, a master's student in **Data Science** at the University of Milano-Bicocca.  
+I hold a bachelor's degree in **Statistics and Information Management (SGI)**, and this portfolio is a collection of my academic and personal projects in the field of Data Science & Machine Learning.  
+
+The goal of this portfolio is to provide clear and unifi access to each project repository. 
+
+---
+
+## 🎓 University Projects
+This repository contains all the projects I’ve worked on during my master’s degree.  
+📂 [University Projects Repository](link-to-your-university-repo)  
+
+Inside you’ll find several folders, each corresponding to a specific course project.
+
+---
+
+## 🚀 Personal Projects
+In addition to coursework, I’ve worked on personal projects to deepen my knowledge and explore areas of interest. Each project has its own repository:
+
+- 🏡 [House Price Prediction (Python)]([link-to-house-price-repo](https://github.com/kugogt/Housing-Price-Prediction)) – End-to-end ML pipeline for regression, feature engineering, and model stacking.  
+- 🧠 [Image Super-Resolution with U-Net]([link-to-super-resolution-repo](https://github.com/kugogt/SR-Restoration-images-U-Net/tree/main)) – Advanced U-Net with modern deep learning techniques for image restoration.  
+
+
+---
+
+## 📬 Contact
+If you’d like to connect or discuss my work:  
+- 📧 Email: marco.rosato99@gmail.com  
+- 💼 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/marco-rosato-39503819b/))  
+- 🌐 [GitHub]([your-github-profile](https://github.com/kugogt))  
+
+---
+
+✨ Thanks for stopping by! Feel free to explore the projects 🚀
