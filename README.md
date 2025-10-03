@@ -8,7 +8,7 @@ The goal of this portfolio is to provide clear and unified access to each projec
 
 ---
 
-## 🎓 University Projects
+## University Projects
 This repository contains all the projects I’ve worked on during my master’s degree.  
 [University Projects Repository](https://github.com/kugogt/University_projects)  
 
@@ -16,7 +16,7 @@ Inside you’ll find several folders, each corresponding to a specific course pr
 
 ---
 
-## 🚀 Personal Projects
+## Personal Projects
 In addition to coursework, I’ve worked on personal projects to deepen my knowledge and explore areas of interest. Each project has its own repository:
 
 - [House Price Prediction](https://github.com/kugogt/Housing-Price-Prediction) – End-to-end ML pipeline for regression, feature engineering, model stacking and interpretation.  
@@ -25,7 +25,7 @@ In addition to coursework, I’ve worked on personal projects to deepen my knowl
 
 ---
 
-## 📬 Contact
+## Contact
 If you’d like to connect or discuss my work:  
 - Email: marco.rosato99@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/marco-rosato-39503819b/)
