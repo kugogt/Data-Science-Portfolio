@@ -33,4 +33,4 @@ If you’d like to connect or discuss my work:
 
 ---
 
-✨ Thanks for stopping by! Feel free to explore the projects 
+Thanks for stopping by! Feel free to explore the projects 
