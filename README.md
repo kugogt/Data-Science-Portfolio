@@ -30,7 +30,3 @@ If you’d like to connect or discuss my work:
 - Email: marco.rosato99@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/marco-rosato-39503819b/)
 - [GitHub](https://github.com/kugogt) 
-
----
-
-Thanks for stopping by! Feel free to explore the projects 
